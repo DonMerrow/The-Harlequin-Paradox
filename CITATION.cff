@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "The Harlequin Paradox: Strategic Absurdity in Negotiation"
+authors:
+  - family-names: "Merrow"
+    given-names: "Don"
+abstract: "Research paper exploring strategic absurdity, negotiation, and simulation models."
+license: MIT
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/harlequin-paradox"
